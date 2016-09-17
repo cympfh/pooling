@@ -20,7 +20,7 @@ Usage: pooling [options]
 pooling --size 10 --max < ./org.ppm > max.ppm
 ```
 
-![](resources/max.ppm)
+![](resources/max.png)
 
 ## avg pooling
 
@@ -28,7 +28,7 @@ pooling --size 10 --max < ./org.ppm > max.ppm
 pooling --size 10 --avg < ./org.ppm > avg.ppm
 ```
 
-![](resources/avg.ppm)
+![](resources/avg.png)
 
 ## min pooling
 
@@ -36,7 +36,7 @@ pooling --size 10 --avg < ./org.ppm > avg.ppm
 pooling --size 10 --min < ./org.ppm > min.ppm
 ```
 
-![](resources/min.ppm)
+![](resources/min.png)
 
 
 # image convert to P3 format
