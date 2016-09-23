@@ -44,6 +44,6 @@ pooling --size 10 --min < ./org.ppm > min.ppm
 with Imagemagick
 
 ```bash
-convert -compress none <in_file> file.ppm
+convert -compress none < input.ppm > output.ppm
 ```
 
